@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "ae2:deepslate_quartz_ore"
+    }
+  ],
+  "result": {
+      "item": "ae2:quartz_ore"
+  }
+}

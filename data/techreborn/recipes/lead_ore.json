@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "techreborn:deepslate_lead_ore"
+    }
+  ],
+  "result": {
+      "item": "techreborn:lead_ore"
+  }
+}

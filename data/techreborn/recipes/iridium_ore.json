@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "techreborn:deepslate_iridium_ore"
+    }
+  ],
+  "result": {
+      "item": "techreborn:iridium_ore"
+  }
+}

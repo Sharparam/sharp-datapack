@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "techreborn:deepslate_bauxite_ore"
+    }
+  ],
+  "result": {
+      "item": "techreborn:bauxite_ore"
+  }
+}

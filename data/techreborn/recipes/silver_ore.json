@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "techreborn:deepslate_silver_ore"
+    }
+  ],
+  "result": {
+      "item": "techreborn:silver_ore"
+  }
+}
