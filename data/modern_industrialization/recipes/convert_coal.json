@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "modern_industrialization:lignite_coal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal"
+  }
+}
