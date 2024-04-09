@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "powah:deepslate_uraninite_ore_dense"
+    }
+  ],
+  "result": {
+    "item": "powah:uraninite_ore_dense"
+  }
+}
