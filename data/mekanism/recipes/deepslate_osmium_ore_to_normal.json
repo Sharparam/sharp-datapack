@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mekanism:deepslate_osmium_ore"
+    }
+  ],
+  "result": {
+    "item": "mekanism:osmium_ore"
+  }
+}

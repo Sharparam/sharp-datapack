@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mekanism:deepslate_fluorite_ore"
+    }
+  ],
+  "result": {
+    "item": "mekanism:fluorite_ore"
+  }
+}

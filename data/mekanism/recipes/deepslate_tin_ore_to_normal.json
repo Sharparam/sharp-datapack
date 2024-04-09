@@ -1,0 +1,11 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "mekanism:deepslate_tin_ore"
+    }
+  ],
+  "result": {
+    "item": "mekanism:tin_ore"
+  }
+}
